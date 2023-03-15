@@ -136,3 +136,10 @@
     * http://traefik.cpedemo.local
     
     ![Dsh-traefik](images/Dsh-traefik.png)
+
+- Ref.
+    - https://youtu.be/KW25mzu7NTI
+    - https://youtu.be/xv8uFJL14fA
+    - https://youtu.be/UGEs5P5pKZ8
+    - https://github.com/pitimon/dockerswarm-inhoure
+
